@@ -1,0 +1,14 @@
+pl\devone\bookstore\config\AppConfig.class
+pl\devone\bookstore\web\servlet\RestServlet.class
+pl\devone\bookstore\service\BookService.class
+pl\devone\bookstore\service\mapper\BookMapperImpl.class
+pl\devone\bookstore\config\WebConfig.class
+pl\devone\bookstore\domain\Book.class
+pl\devone\bookstore\web\rest\BookRequestProcessorImpl.class
+pl\devone\bookstore\service\dto\BookDTO.class
+pl\devone\bookstore\service\mapper\BookMapper.class
+pl\devone\bookstore\web\servlet\BookServlet.class
+pl\devone\bookstore\repository\BookRepository.class
+pl\devone\bookstore\config\HibernateConfig.class
+pl\devone\bookstore\BookstoreApplication.class
+pl\devone\bookstore\web\rest\RestRequestProcessor.class
